@@ -1,0 +1,22 @@
+{
+  "name": "react-data-scrape",
+  "version": "1.0.0",
+  "description": "Use React hooks to fetch and display data",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 12.8.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.0",
+    "normalize.css": "^8.0.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "styled-components": "^5.0.1"
+  }
+}
